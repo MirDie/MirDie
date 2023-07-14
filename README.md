@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mirdie&label=Profile%20views&color=0e75b6&style=flat" alt="mirdie" /> </p>
 
-- 🔭 I’m currently working on [go-mini-wms](https://github.com/MirDie/go-mini-wms)
 
 - 🌱 I’m currently learning **Golang,Gin,Gorm**
 
